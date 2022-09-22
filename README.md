@@ -286,11 +286,11 @@ Item # | Description | Completed
 2a | 😔 |
 2b | [commit #2 from Github Desktop](https://github.com/omundy/learn-git-milestones/commit/7f37aacec9b3f624ba82d18f6a525b0173d25024) |
 2c | /Users/isaacbynum/Documents/GitHub/learn-git-milestones |
-2d | Link to `commit #3 from CLI` |
-2e | 3rd Favorite emoji |
-2f | Link to `commit #4 from Atom` |
-3a | Link to `my-awesome-project` github.com repo page |
-4a | Link to `my-awesome-project` github.io "project site" |
+2d | [commit #3 from CLI](https://github.com/omundy/learn-git-milestones/commit/6cab68b38711518d330692d63bd2f07ffa2b0338) |
+2e | 🍅|
+2f | [commit #4 from Atom](https://github.com/omundy/learn-git-milestones/commit/ed046f0a6b0fc080948046ddbacd7b3d46091a57) |
+3a | [my-awesome-project](https://github.com/isaacbynum/my-awesome-project) |
+4a | [my-awesome-project](https://isaacbynum.github.io/my-awesome-project/) |
 
 
 
