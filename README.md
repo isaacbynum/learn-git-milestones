@@ -279,13 +279,13 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 
 Item # | Description | Completed
 --- | --- | ---
-1a | 1st Favorite emoji | 😂
-1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/omundy/learn-git-milestones/commit/257a56e1baf362a6f016fc593c71fe2b00c05aa0)
-1c | Link to markdown tables docs |
-1d | What does `log` do? |
-2a | 2nd Favorite emoji |
-2b | Link to `commit #2 from Github Desktop` |
-2c | Full path to your working directory |
+1a | 😂|
+1b | [commit #1 from Github.com](https://github.com/omundy/learn-git-milestones/commit/257a56e1baf362a6f016fc593c71fe2b00c05aa0) |
+1c | [Link](https://www.markdownguide.org/extended-syntax/) |
+1d | The base of a logarithm|
+2a | 😔 |
+2b | [commit #2 from Github Desktop](https://github.com/omundy/learn-git-milestones/commit/7f37aacec9b3f624ba82d18f6a525b0173d25024) |
+2c | /Users/isaacbynum/Documents/GitHub/learn-git-milestones |
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
